@@ -372,7 +372,7 @@ function _0x348d(_0x50ce67,_0x2397a1){var _0x15bb19=_0x15bb();return _0x348d=fun
 }
 break
 //=================================================//
-case 'troli2': {
+case '😋': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return anjay(`Jumlahnya?`)
@@ -792,7 +792,7 @@ haikal.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
 }
 break
 //=================================================//
-case 'lokas': {
+case '😁': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -858,7 +858,7 @@ haikal.relayMessage(m.chat, groupInvite.message, { messageId: groupInvite.key.id
 }
 break
 //=================================================//
-case 'troli': {
+case '😱': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -4176,36 +4176,35 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 👒 Hamlo Cuy 🗿 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-*MENU*
+*MENE*
 ┏━━⊱
-┣❏➥ bugmenu
-┣❏➥ scraperimage
-┣❏➥ asupanmata
-┣❏➥ scrapconvert
-┣❏➥ randomsound
-┣❏➥ nsfw
-┣❏➥ soundbot
-┣❏➥ funnmenu
-┣❏➥ primbonmenu
-┣❏➥ islamiyah
-┣❏➥ voicechanger
-┣❏➥ beritanews
-┣❏➥ cmdmenu
-┣❏➥ searchmenu
-┣❏➥ groupmenu
-┣❏➥ downloadmenu
-┣❏➥ ownermenu
+┣🎀 bugmenu
+┣🎀 scraperimage
+┣🎀 asupanmata
+┣🎀 scrapconvert
+┣🎀 randomsound
+┣🎀 nsfw
+┣🎀 soundbot
+┣🎀 funnmenu
+┣🎀 primbonmenu
+┣🎀 islamiyah
+┣🎀 voicechanger
+┣🎀 beritanews
+┣🎀 cmdmenu
+┣🎀 searchmenu
+┣🎀 groupmenu
+┣🎀 downloadmenu
+┣🎀 ownermenu
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-*NOTE*
-🌷
-contact me Wa.me/6285714170944
+Ada pertanyaan?
+contact me Wa.me/6283822892316
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©Haikal`, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
+©WibuGans`, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4293,14 +4292,14 @@ bugtag [ jumlah ]
 inibug [ jumlah ]
 buttonampas [ jumlah ]
 hiya [ jumlah ]
-lokas [ jumlah ]
+😁 [ jumlah ]
 catalog [ jumlah ]
 docu [ jumlah ]
 daca [ jumlah ]
 duc [ jumlah ]
 ducu [ jumlah ]
-troli [ jumlah ]
-troli2 [ jumlah ]
+😱 [ jumlah ]
+😋 [ jumlah ]
 spam [ Reply Pesan ]
 
 ° Jadi Bug °
